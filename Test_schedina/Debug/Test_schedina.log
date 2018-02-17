@@ -1,0 +1,17 @@
+﻿  main.c
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(66): warning C4047: 'funzione': 'float *' differisce da 'float (*)[10]' nei livelli di riferimento indiretto
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(66): warning C4024: 'calculateMean': tipi diversi tra il parametro 1 formale e quello effettivo
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(67): warning C4047: 'funzione': 'float *' differisce da 'float (*)[10]' nei livelli di riferimento indiretto
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(67): warning C4024: 'calculateMean': tipi diversi tra il parametro 1 formale e quello effettivo
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(68): warning C4047: 'funzione': 'float *' differisce da 'float (*)[10]' nei livelli di riferimento indiretto
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(68): warning C4024: 'calculateVar': tipi diversi tra il parametro 1 formale e quello effettivo
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(68): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(69): warning C4047: 'funzione': 'float *' differisce da 'float (*)[10]' nei livelli di riferimento indiretto
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(69): warning C4024: 'calculateVar': tipi diversi tra il parametro 1 formale e quello effettivo
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(69): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(70): warning C4244: 'funzione': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(90): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(91): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\andre\documenti\visual studio 2017\projects\test_schedina\test_schedina\main.c(92): warning C4244: 'funzione': conversione da 'float' a 'int'. Possibile perdita di dati.
+  Test_schedina.vcxproj -> C:\Users\andre\Documenti\Visual Studio 2017\Projects\Test_schedina\Debug\Test_schedina.exe
+  Test_schedina.vcxproj -> C:\Users\andre\Documenti\Visual Studio 2017\Projects\Test_schedina\Debug\Test_schedina.pdb (Partial PDB)
